@@ -13,6 +13,4 @@ Downloaded from:
 [Times New Roman - DafontFree](https://www.dafontfree.co/download/times-new-roman/)
 
 ## Citation
-
-**APA Format:**
 > Phiphatkunarnon, P., Phanuphak, N., Janamnuaysook, R., Tran, D., Neo, B. L., & Tepsan, W. (2025). Comprehensive Analysis and Leveraging Online Innovations to Improve HIV and STI Prevention and Treatment Services in Major Cities of Thailand.
