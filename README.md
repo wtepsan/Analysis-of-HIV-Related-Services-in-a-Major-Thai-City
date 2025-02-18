@@ -11,3 +11,12 @@ Downloaded from:
 ## Font Download
 Downloaded from:  
 [Times New Roman - DafontFree](https://www.dafontfree.co/download/times-new-roman/)
+
+## Citation
+
+**BibTeX Format:**
+```bibtex
+@article{Phiphatkunarnon2025,
+  author    = {Panyaphon Phiphatkunarnon and Nittaya Phanuphak and Rena Janamnuaysook and Do Tran and Boon-Leong Neo and Worawit Tepsan},
+  title     = {Comprehensive Analysis and Leveraging Online Innovations to Improve HIV and STI Prevention and Treatment Services in Major Cities of Thailand},
+}
