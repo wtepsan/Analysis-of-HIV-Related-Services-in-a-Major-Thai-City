@@ -15,4 +15,4 @@ Downloaded from:
 [Times New Roman - DafontFree](https://www.dafontfree.co/download/times-new-roman/)
 
 ## Citation
-> Phiphatkunarnon, Panyaphon, Nittaya Phanuphak, Rena Janamnuaysook, Do Tran, Boon-Leong Neo, and Worawit Tepsan. 2025. "Comprehensive Analysis and Leveraging Online Innovations to Improve HIV and STI Prevention and Treatment Services in Major Cities of Thailand." AIDS and Behavior. [Include DOI here if available](https://doi.org/10.1007/s10461-025-04714-x]
+> Phiphatkunarnon, Panyaphon, Nittaya Phanuphak, Rena Janamnuaysook, Do Tran, Boon-Leong Neo, and Worawit Tepsan. 2025. "Comprehensive Analysis and Leveraging Online Innovations to Improve HIV and STI Prevention and Treatment Services in Major Cities of Thailand." AIDS and Behavior. [https://doi.org/10.1007/s10461-025-04714-x]
